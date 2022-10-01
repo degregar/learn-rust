@@ -3,6 +3,6 @@
 ## Hello World
 
 ```bash
-rustc 0-hello.rs
-./0-hello
+rustc 1-hello.rs
+./1-hello
 ```
