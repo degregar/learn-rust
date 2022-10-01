@@ -1,6 +1,8 @@
 # learn-rust
 
+## Hello World
+
 ```bash
 rustc 0-hello.rs
-./hello
+./0-hello
 ```
