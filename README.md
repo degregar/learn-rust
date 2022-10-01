@@ -1,6 +1,6 @@
 # learn-rust
 
 ```bash
-rustc hello.rs
+rustc 0-hello.rs
 ./hello
 ```
